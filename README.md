@@ -20,7 +20,7 @@ This is a **frontend clone** of the [Zerodha](https://zerodha.com/) website buil
    git clone https://github.com/taniasha/Zerodhaa.git
 2. Navigate to project folder:
     cd Zerodhaa
-3. Install dependencies
+3. Install dependencies: 
     npm i
-4. start developement server
+4. start developement server: 
     npm start
